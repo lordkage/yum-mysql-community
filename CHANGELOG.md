@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+- Addressing RHEL > 8 issue
+
 ## 5.4.2 - *2024-05-03*
 
 ## 5.4.1 - *2024-01-31*
